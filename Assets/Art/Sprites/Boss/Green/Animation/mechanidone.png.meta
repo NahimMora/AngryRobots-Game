@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 264dcc556594154408ebc573e89dd09c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6439685687616822417
+    second: mechanidone_0
+  - first:
+      213: 4404600462188323535
+    second: mechanidone_1
+  - first:
+      213: 5483021301614600408
+    second: mechanidone_2
+  - first:
+      213: 1903739189955720133
+    second: mechanidone_3
+  - first:
+      213: 1455685308935514296
+    second: mechanidone_4
+  - first:
+      213: -422796175607971639
+    second: mechanidone_5
+  - first:
+      213: 7001071128704725721
+    second: mechanidone_6
+  - first:
+      213: 4920683177966059217
+    second: mechanidone_7
+  - first:
+      213: -1715237832377581254
+    second: mechanidone_8
+  - first:
+      213: -4560809384364576366
+    second: mechanidone_9
+  - first:
+      213: 5076893415868749186
+    second: mechanidone_10
+  - first:
+      213: -8635832496588266967
+    second: mechanidone_11
+  - first:
+      213: 6480994970655980693
+    second: mechanidone_12
+  - first:
+      213: 8008628685789313103
+    second: mechanidone_13
+  - first:
+      213: -2679576715529724475
+    second: mechanidone_14
+  - first:
+      213: -1097301375458823649
+    second: mechanidone_15
+  - first:
+      213: 401185637677552071
+    second: mechanidone_16
+  - first:
+      213: 4043389148295691796
+    second: mechanidone_17
+  - first:
+      213: 4232512107177572471
+    second: mechanidone_18
+  - first:
+      213: -8030708226327666835
+    second: mechanidone_19
+  - first:
+      213: 5958146178720471757
+    second: mechanidone_20
+  - first:
+      213: -2004201622613440064
+    second: mechanidone_21
+  - first:
+      213: 1340507043850836344
+    second: mechanidone_22
+  - first:
+      213: -2736303434005490127
+    second: mechanidone_23
+  - first:
+      213: 4549555023878715085
+    second: mechanidone_24
+  - first:
+      213: -4802797074532512902
+    second: mechanidone_25
+  - first:
+      213: -4870206517602336416
+    second: mechanidone_26
+  - first:
+      213: 747883706084601896
+    second: mechanidone_27
+  - first:
+      213: -8000486936054502821
+    second: mechanidone_28
+  - first:
+      213: -6373472713031564936
+    second: mechanidone_29
+  - first:
+      213: -2305433341770842343
+    second: mechanidone_30
+  - first:
+      213: 630397863685074848
+    second: mechanidone_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mechanidone_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c5193930c5e5950800000000000000
+      internalID: 6439685687616822417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2a146a8c8402d30800000000000000
+      internalID: 4404600462188323535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d063a2d2da971c40800000000000000
+      internalID: 5483021301614600408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 12
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3fc42f4b07b6a10800000000000000
+      internalID: 1903739189955720133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 12
+        width: 242
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b82bdf6312a33410800000000000000
+      internalID: 1455685308935514296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c04e7c4e1de12af0800000000000000
+      internalID: -422796175607971639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_6
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 12
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d230b9291dc82160800000000000000
+      internalID: 7001071128704725721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_7
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de38ea8747c94440800000000000000
+      internalID: 4920683177966059217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_8
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31c2d777404238e0800000000000000
+      internalID: -1715237832377581254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_9
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2917ea47700c4b0c0800000000000000
+      internalID: -4560809384364576366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_10
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2855067c9afb47640800000000000000
+      internalID: 5076893415868749186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_11
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922e415591c572880800000000000000
+      internalID: -8635832496588266967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_12
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 12
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cfa09869e11f950800000000000000
+      internalID: 6480994970655980693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_13
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 12
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48b972bb5d542f60800000000000000
+      internalID: 8008628685789313103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_14
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 12
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd517a9c2b30dad0800000000000000
+      internalID: -2679576715529724475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_15
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 12
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12ba38763a95c0f0800000000000000
+      internalID: -1097301375458823649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_16
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 12
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c152ce363c419500800000000000000
+      internalID: 401185637677552071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_17
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 12
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e75d0f1010d1830800000000000000
+      internalID: 4043389148295691796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_18
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 12
+        width: 242
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778fbdf2657ecba30800000000000000
+      internalID: 4232512107177572471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_19
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 12
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f9eeaaa613d8090800000000000000
+      internalID: -8030708226327666835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_20
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 12
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca1c76c1669fa250800000000000000
+      internalID: 5958146178720471757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_21
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 12
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c94dd13e35af24e0800000000000000
+      internalID: -2004201622613440064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_22
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 12
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87953a7dd007a9210800000000000000
+      internalID: 1340507043850836344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_23
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 12
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136db6a3682b60ad0800000000000000
+      internalID: -2736303434005490127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_24
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 12
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6726c8034432f30800000000000000
+      internalID: 4549555023878715085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_25
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 12
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b443cc189095db0800000000000000
+      internalID: -4802797074532512902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_26
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 12
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0614587c9fc896cb0800000000000000
+      internalID: -4870206517602336416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_27
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820b97aa444016a00800000000000000
+      internalID: 747883706084601896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_28
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a6152258f88f090800000000000000
+      internalID: -8000486936054502821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_29
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871cb1ae550ec87a0800000000000000
+      internalID: -6373472713031564936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_30
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f386227947100e0800000000000000
+      internalID: -2305433341770842343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanidone_31
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 12
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af2d1c548f9fb800800000000000000
+      internalID: 630397863685074848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mechanidone_0: 6439685687616822417
+      mechanidone_1: 4404600462188323535
+      mechanidone_10: 5076893415868749186
+      mechanidone_11: -8635832496588266967
+      mechanidone_12: 6480994970655980693
+      mechanidone_13: 8008628685789313103
+      mechanidone_14: -2679576715529724475
+      mechanidone_15: -1097301375458823649
+      mechanidone_16: 401185637677552071
+      mechanidone_17: 4043389148295691796
+      mechanidone_18: 4232512107177572471
+      mechanidone_19: -8030708226327666835
+      mechanidone_2: 5483021301614600408
+      mechanidone_20: 5958146178720471757
+      mechanidone_21: -2004201622613440064
+      mechanidone_22: 1340507043850836344
+      mechanidone_23: -2736303434005490127
+      mechanidone_24: 4549555023878715085
+      mechanidone_25: -4802797074532512902
+      mechanidone_26: -4870206517602336416
+      mechanidone_27: 747883706084601896
+      mechanidone_28: -8000486936054502821
+      mechanidone_29: -6373472713031564936
+      mechanidone_3: 1903739189955720133
+      mechanidone_30: -2305433341770842343
+      mechanidone_31: 630397863685074848
+      mechanidone_4: 1455685308935514296
+      mechanidone_5: -422796175607971639
+      mechanidone_6: 7001071128704725721
+      mechanidone_7: 4920683177966059217
+      mechanidone_8: -1715237832377581254
+      mechanidone_9: -4560809384364576366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

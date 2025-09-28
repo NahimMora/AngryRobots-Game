@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: a2f8cd4a61f02ee4aad84169bd140bb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -229649960051094985
+    second: mechani4done_0
+  - first:
+      213: 5867825860016410343
+    second: mechani4done_1
+  - first:
+      213: -850528684948995229
+    second: mechani4done_2
+  - first:
+      213: 4207170911522855496
+    second: mechani4done_3
+  - first:
+      213: -3935982568323334834
+    second: mechani4done_4
+  - first:
+      213: 7097462334225222905
+    second: mechani4done_5
+  - first:
+      213: 2112083981975200720
+    second: mechani4done_6
+  - first:
+      213: -3002490429330969918
+    second: mechani4done_7
+  - first:
+      213: 949708724310325950
+    second: mechani4done_8
+  - first:
+      213: 3063201856063862572
+    second: mechani4done_9
+  - first:
+      213: -4848169462379641018
+    second: mechani4done_10
+  - first:
+      213: -7818970165435569489
+    second: mechani4done_11
+  - first:
+      213: -1549808642701684524
+    second: mechani4done_12
+  - first:
+      213: -2573411523269714287
+    second: mechani4done_13
+  - first:
+      213: -6826521475226895939
+    second: mechani4done_14
+  - first:
+      213: -5933508258721548232
+    second: mechani4done_15
+  - first:
+      213: -2756228199945989253
+    second: mechani4done_16
+  - first:
+      213: 4356091008083216260
+    second: mechani4done_17
+  - first:
+      213: -5372377593589197811
+    second: mechani4done_18
+  - first:
+      213: -6430541224596253479
+    second: mechani4done_19
+  - first:
+      213: -4267212584122413967
+    second: mechani4done_20
+  - first:
+      213: -2556939849317891101
+    second: mechani4done_21
+  - first:
+      213: -3914304938720145207
+    second: mechani4done_22
+  - first:
+      213: -2357546468512457481
+    second: mechani4done_23
+  - first:
+      213: 8326004693329602443
+    second: mechani4done_24
+  - first:
+      213: -3842560921870420645
+    second: mechani4done_25
+  - first:
+      213: -4407565772336016715
+    second: mechani4done_26
+  - first:
+      213: 6365899397861617445
+    second: mechani4done_27
+  - first:
+      213: 5037181107916081949
+    second: mechani4done_28
+  - first:
+      213: -1849603362014743347
+    second: mechani4done_29
+  - first:
+      213: 6773222556711117515
+    second: mechani4done_30
+  - first:
+      213: 3185635753343015303
+    second: mechani4done_31
+  - first:
+      213: -7424538489306868238
+    second: mechani4done_32
+  - first:
+      213: 2986730622397381552
+    second: mechani4done_33
+  - first:
+      213: 1192869046700176273
+    second: mechani4done_34
+  - first:
+      213: 5446219421705167270
+    second: mechani4done_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mechani4done_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ac87cf39e10dcf0800000000000000
+      internalID: -229649960051094985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee0126d784be6150800000000000000
+      internalID: 5867825860016410343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363c556daa05234f0800000000000000
+      internalID: -850528684948995229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a1daa47afd26a30800000000000000
+      internalID: 4207170911522855496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d35f435b49069c0800000000000000
+      internalID: -3935982568323334834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc853693604f7260800000000000000
+      internalID: 7097462334225222905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 8
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3ac69f031af4d10800000000000000
+      internalID: 2112083981975200720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 8
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caa736ccd20556d0800000000000000
+      internalID: -3002490429330969918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba3b909d0b0e2d00800000000000000
+      internalID: 949708724310325950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_9
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27f00acbdda28a20800000000000000
+      internalID: 3063201856063862572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_10
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64707f78f87d7bcb0800000000000000
+      internalID: -4848169462379641018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_11
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faae5dbaf007d7390800000000000000
+      internalID: -7818970165435569489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_12
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d09fed2049fd7ae0800000000000000
+      internalID: -1549808642701684524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_13
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e9c96aad7694cd0800000000000000
+      internalID: -2573411523269714287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_14
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 8
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9768103e25341a0800000000000000
+      internalID: -6826521475226895939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_15
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 8
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383e0ffca1f7ada0800000000000000
+      internalID: -5933508258721548232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_16
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 8
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b731e462e09efb9d0800000000000000
+      internalID: -2756228199945989253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_17
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 8
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487c21a31b1f37c30800000000000000
+      internalID: 4356091008083216260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_18
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 8
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0419deea0b7175b0800000000000000
+      internalID: -5372377593589197811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_19
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 8
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d45f62a3d022c6a0800000000000000
+      internalID: -6430541224596253479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_20
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 8
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c8e4e63c0d7c4c0800000000000000
+      internalID: -4267212584122413967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_21
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 8
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3cd5911cce38cd0800000000000000
+      internalID: -2556939849317891101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_22
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 8
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c05709a5689da9c0800000000000000
+      internalID: -3914304938720145207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_23
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 8
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc96da4aff484fd0800000000000000
+      internalID: -2357546468512457481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_24
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 8
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b876520d729eb8370800000000000000
+      internalID: 8326004693329602443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_25
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 8
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55bd18433b7caac0800000000000000
+      internalID: -3842560921870420645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_26
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 8
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2ddb7484e25d2c0800000000000000
+      internalID: -4407565772336016715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_27
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 8
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f2a6d36c7385850800000000000000
+      internalID: 6365899397861617445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_28
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 8
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b85ae8789a7e540800000000000000
+      internalID: 5037181107916081949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_29
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 8
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc43eb7ba83e456e0800000000000000
+      internalID: -1849603362014743347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_30
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 8
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2ed6d77025ffd50800000000000000
+      internalID: 6773222556711117515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_31
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7895bc5e6d6a53c20800000000000000
+      internalID: 3185635753343015303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_32
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f516a3b49db6f890800000000000000
+      internalID: -7424538489306868238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_33
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbf6cb3daff27920800000000000000
+      internalID: 2986730622397381552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_34
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1937f10f31ced8010800000000000000
+      internalID: 1192869046700176273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani4done_35
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 8
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1e19f65bbd49b40800000000000000
+      internalID: 5446219421705167270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mechani4done_0: -229649960051094985
+      mechani4done_1: 5867825860016410343
+      mechani4done_10: -4848169462379641018
+      mechani4done_11: -7818970165435569489
+      mechani4done_12: -1549808642701684524
+      mechani4done_13: -2573411523269714287
+      mechani4done_14: -6826521475226895939
+      mechani4done_15: -5933508258721548232
+      mechani4done_16: -2756228199945989253
+      mechani4done_17: 4356091008083216260
+      mechani4done_18: -5372377593589197811
+      mechani4done_19: -6430541224596253479
+      mechani4done_2: -850528684948995229
+      mechani4done_20: -4267212584122413967
+      mechani4done_21: -2556939849317891101
+      mechani4done_22: -3914304938720145207
+      mechani4done_23: -2357546468512457481
+      mechani4done_24: 8326004693329602443
+      mechani4done_25: -3842560921870420645
+      mechani4done_26: -4407565772336016715
+      mechani4done_27: 6365899397861617445
+      mechani4done_28: 5037181107916081949
+      mechani4done_29: -1849603362014743347
+      mechani4done_3: 4207170911522855496
+      mechani4done_30: 6773222556711117515
+      mechani4done_31: 3185635753343015303
+      mechani4done_32: -7424538489306868238
+      mechani4done_33: 2986730622397381552
+      mechani4done_34: 1192869046700176273
+      mechani4done_35: 5446219421705167270
+      mechani4done_4: -3935982568323334834
+      mechani4done_5: 7097462334225222905
+      mechani4done_6: 2112083981975200720
+      mechani4done_7: -3002490429330969918
+      mechani4done_8: 949708724310325950
+      mechani4done_9: 3063201856063862572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 1b9b8c16ebb5e08428985dc42403a523
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3706530748088688335
+    second: mechanimation1_0
+  - first:
+      213: 6944685391862722653
+    second: mechanimation1_1
+  - first:
+      213: 5160549601744218552
+    second: mechanimation1_2
+  - first:
+      213: -6871969510584436388
+    second: mechanimation1_3
+  - first:
+      213: 5302517140242086676
+    second: mechanimation1_4
+  - first:
+      213: 6540864285846270428
+    second: mechanimation1_5
+  - first:
+      213: -1297541293533158014
+    second: mechanimation1_6
+  - first:
+      213: -6453635658853518404
+    second: mechanimation1_7
+  - first:
+      213: 8012961968080348456
+    second: mechanimation1_8
+  - first:
+      213: 7127776364886424212
+    second: mechanimation1_9
+  - first:
+      213: 9133617309798529727
+    second: mechanimation1_10
+  - first:
+      213: 2023810890295329163
+    second: mechanimation1_11
+  - first:
+      213: -8551810427422593425
+    second: mechanimation1_12
+  - first:
+      213: -6546251283843960876
+    second: mechanimation1_13
+  - first:
+      213: 5051950954309886994
+    second: mechanimation1_14
+  - first:
+      213: 7312670990476229571
+    second: mechanimation1_15
+  - first:
+      213: -5160931554451338096
+    second: mechanimation1_16
+  - first:
+      213: -3136644200623161670
+    second: mechanimation1_17
+  - first:
+      213: 7780330614534003523
+    second: mechanimation1_18
+  - first:
+      213: -13902985831021827
+    second: mechanimation1_19
+  - first:
+      213: -2641799158964458922
+    second: mechanimation1_20
+  - first:
+      213: -6729943101361082130
+    second: mechanimation1_21
+  - first:
+      213: 895656805849144814
+    second: mechanimation1_22
+  - first:
+      213: -19841497264066109
+    second: mechanimation1_23
+  - first:
+      213: 7251789455318555081
+    second: mechanimation1_24
+  - first:
+      213: -1965612108880541625
+    second: mechanimation1_25
+  - first:
+      213: -7945014563013684186
+    second: mechanimation1_26
+  - first:
+      213: -38073357946449278
+    second: mechanimation1_27
+  - first:
+      213: -2540362377186749232
+    second: mechanimation1_28
+  - first:
+      213: 9085115440465605397
+    second: mechanimation1_29
+  - first:
+      213: -2447721484939388610
+    second: mechanimation1_30
+  - first:
+      213: 9070270172974429221
+    second: mechanimation1_31
+  - first:
+      213: 6797057709620437040
+    second: mechanimation1_32
+  - first:
+      213: 3443658627070086625
+    second: mechanimation1_33
+  - first:
+      213: 9130396630288907143
+    second: mechanimation1_34
+  - first:
+      213: -3144483994850056258
+    second: mechanimation1_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mechanimation1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce93ecc31e307330800000000000000
+      internalID: 3706530748088688335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5072d2c19a706060800000000000000
+      internalID: 6944685391862722653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b96fb16584fd9740800000000000000
+      internalID: 5160549601744218552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59bc4ea32cd1a0a0800000000000000
+      internalID: -6871969510584436388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bbc8fbe33569940800000000000000
+      internalID: 5302517140242086676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1f7e9b961d5ca50800000000000000
+      internalID: 6540864285846270428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2852e8571153efde0800000000000000
+      internalID: -1297541293533158014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3fd34af841076a0800000000000000
+      internalID: -6453635658853518404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825e42a9472c33f60800000000000000
+      internalID: 8012961968080348456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49afa7bd6d2fae260800000000000000
+      internalID: 7127776364886424212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_10
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba76e02d8021ce70800000000000000
+      internalID: 9133617309798529727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_11
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81ce983845061c10800000000000000
+      internalID: 2023810890295329163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_12
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eaef6c9bdd15980800000000000000
+      internalID: -8551810427422593425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_13
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df2900142b0725a0800000000000000
+      internalID: -6546251283843960876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_14
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214265660a22c1640800000000000000
+      internalID: 5051950954309886994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_15
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbb3aa8583db7560800000000000000
+      internalID: 7312670990476229571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_16
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cc2d25810b068b0800000000000000
+      internalID: -5160931554451338096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_17
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe311bd7b66874d0800000000000000
+      internalID: -3136644200623161670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_18
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b5562d87949fb60800000000000000
+      internalID: 7780330614534003523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_19
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 0
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2893cde4b9ecff0800000000000000
+      internalID: -13902985831021827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_20
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a6ff969a1765bd0800000000000000
+      internalID: -2641799158964458922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_21
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 0
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee038c4f7607a92a0800000000000000
+      internalID: -6729943101361082130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_22
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 0
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed9c499e130e6c00800000000000000
+      internalID: 895656805849144814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c173cb634289bff0800000000000000
+      internalID: -19841497264066109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_24
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c99f26861883a460800000000000000
+      internalID: 7251789455318555081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_25
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74808f3833eb8b4e0800000000000000
+      internalID: -1965612108880541625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_26
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62493447953adb190800000000000000
+      internalID: -7945014563013684186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_27
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28212309b7cb87ff0800000000000000
+      internalID: -38073357946449278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_28
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4540b90e1debcd0800000000000000
+      internalID: -2540362377186749232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_29
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5137e5cab50d41e70800000000000000
+      internalID: 9085115440465605397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_30
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39981d2742f70ed0800000000000000
+      internalID: -2447721484939388610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_31
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52436fc7aa210ed70800000000000000
+      internalID: 9070270172974429221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_32
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030a1cb79fff35e50800000000000000
+      internalID: 6797057709620437040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_33
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edc83aa6455acf20800000000000000
+      internalID: 3443658627070086625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_34
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 0
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b3bce3c5fa5be70800000000000000
+      internalID: 9130396630288907143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechanimation1_35
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 0
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7af05877c8c54d0800000000000000
+      internalID: -3144483994850056258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mechanimation1_0: 3706530748088688335
+      mechanimation1_1: 6944685391862722653
+      mechanimation1_10: 9133617309798529727
+      mechanimation1_11: 2023810890295329163
+      mechanimation1_12: -8551810427422593425
+      mechanimation1_13: -6546251283843960876
+      mechanimation1_14: 5051950954309886994
+      mechanimation1_15: 7312670990476229571
+      mechanimation1_16: -5160931554451338096
+      mechanimation1_17: -3136644200623161670
+      mechanimation1_18: 7780330614534003523
+      mechanimation1_19: -13902985831021827
+      mechanimation1_2: 5160549601744218552
+      mechanimation1_20: -2641799158964458922
+      mechanimation1_21: -6729943101361082130
+      mechanimation1_22: 895656805849144814
+      mechanimation1_23: -19841497264066109
+      mechanimation1_24: 7251789455318555081
+      mechanimation1_25: -1965612108880541625
+      mechanimation1_26: -7945014563013684186
+      mechanimation1_27: -38073357946449278
+      mechanimation1_28: -2540362377186749232
+      mechanimation1_29: 9085115440465605397
+      mechanimation1_3: -6871969510584436388
+      mechanimation1_30: -2447721484939388610
+      mechanimation1_31: 9070270172974429221
+      mechanimation1_32: 6797057709620437040
+      mechanimation1_33: 3443658627070086625
+      mechanimation1_34: 9130396630288907143
+      mechanimation1_35: -3144483994850056258
+      mechanimation1_4: 5302517140242086676
+      mechanimation1_5: 6540864285846270428
+      mechanimation1_6: -1297541293533158014
+      mechanimation1_7: -6453635658853518404
+      mechanimation1_8: 8012961968080348456
+      mechanimation1_9: 7127776364886424212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

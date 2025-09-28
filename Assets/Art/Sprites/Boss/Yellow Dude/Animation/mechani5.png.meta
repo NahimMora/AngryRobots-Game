@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 7c19a33650909e14d881a5f6c810d585
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9020446063708616856
+    second: mechani5_0
+  - first:
+      213: 5877960029712933538
+    second: mechani5_1
+  - first:
+      213: -5801046743511698719
+    second: mechani5_2
+  - first:
+      213: -3387286919165441746
+    second: mechani5_3
+  - first:
+      213: -5124695515334816782
+    second: mechani5_4
+  - first:
+      213: 4938528603638975865
+    second: mechani5_5
+  - first:
+      213: 6065443978320123710
+    second: mechani5_6
+  - first:
+      213: -6828942107198024233
+    second: mechani5_7
+  - first:
+      213: 4624149678872880940
+    second: mechani5_8
+  - first:
+      213: 650357942927379341
+    second: mechani5_9
+  - first:
+      213: 1922933299333561747
+    second: mechani5_10
+  - first:
+      213: -9035509427739129181
+    second: mechani5_11
+  - first:
+      213: -1224884678716883194
+    second: mechani5_12
+  - first:
+      213: 5825043245732732858
+    second: mechani5_13
+  - first:
+      213: -4297138910898599849
+    second: mechani5_14
+  - first:
+      213: 6368575313799270398
+    second: mechani5_15
+  - first:
+      213: 6294395051229668018
+    second: mechani5_16
+  - first:
+      213: -913570993632962958
+    second: mechani5_17
+  - first:
+      213: 5977299874040228816
+    second: mechani5_18
+  - first:
+      213: 629357386206330933
+    second: mechani5_19
+  - first:
+      213: -5430056942725947579
+    second: mechani5_20
+  - first:
+      213: 1378075035899639889
+    second: mechani5_21
+  - first:
+      213: 7087706672383171876
+    second: mechani5_22
+  - first:
+      213: 7007929546979911359
+    second: mechani5_23
+  - first:
+      213: -2672449232732252184
+    second: mechani5_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mechani5_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8983cee07ef0f2d70800000000000000
+      internalID: 9020446063708616856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 12
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2ebf61185b29150800000000000000
+      internalID: 5877960029712933538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 12
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e27c87d8ba8e7fa0800000000000000
+      internalID: -5801046743511698719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 12
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2901de5e70fdf0d0800000000000000
+      internalID: -3387286919165441746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 12
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb4e62a49c61e8b0800000000000000
+      internalID: -5124695515334816782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 12
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dc10d799d298440800000000000000
+      internalID: 4938528603638975865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_6
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 12
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e379dc48929cc2450800000000000000
+      internalID: 6065443978320123710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 12
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d511c4b559ba31a0800000000000000
+      internalID: -6828942107198024233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_8
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 12
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27647512a74c2040800000000000000
+      internalID: 4624149678872880940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 12
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b4a057a19860900800000000000000
+      internalID: 650357942927379341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_10
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 12
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dfb89c5a1afaa10800000000000000
+      internalID: 1922933299333561747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_11
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 12
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa8ae23c0c6b9280800000000000000
+      internalID: -9035509427739129181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_12
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 12
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ff24adfd5500fe0800000000000000
+      internalID: -1224884678716883194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 12
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf103738f5b6d050800000000000000
+      internalID: 5825043245732732858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_14
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 12
+        width: 1282
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75841618dee7d54c0800000000000000
+      internalID: -4297138910898599849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_15
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 12
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effc3587189b16850800000000000000
+      internalID: 6368575313799270398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_16
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 12
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2658033fe2a5750800000000000000
+      internalID: 6294395051229668018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_17
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 12
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276186785085253f0800000000000000
+      internalID: -913570993632962958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_18
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 12
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dba72cf092a3f250800000000000000
+      internalID: 5977299874040228816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_19
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 12
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530c891553debb800800000000000000
+      internalID: 629357386206330933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_20
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 12
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f1da2faff84a4b0800000000000000
+      internalID: -5430056942725947579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_21
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158b1ac91f7ef1310800000000000000
+      internalID: 1378075035899639889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_22
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d909f8aa79c5260800000000000000
+      internalID: 7087706672383171876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_23
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6a3ba1bca214160800000000000000
+      internalID: 7007929546979911359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani5_24
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e79ab2059d89ead0800000000000000
+      internalID: -2672449232732252184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mechani5_0: 9020446063708616856
+      mechani5_1: 5877960029712933538
+      mechani5_10: 1922933299333561747
+      mechani5_11: -9035509427739129181
+      mechani5_12: -1224884678716883194
+      mechani5_13: 5825043245732732858
+      mechani5_14: -4297138910898599849
+      mechani5_15: 6368575313799270398
+      mechani5_16: 6294395051229668018
+      mechani5_17: -913570993632962958
+      mechani5_18: 5977299874040228816
+      mechani5_19: 629357386206330933
+      mechani5_2: -5801046743511698719
+      mechani5_20: -5430056942725947579
+      mechani5_21: 1378075035899639889
+      mechani5_22: 7087706672383171876
+      mechani5_23: 7007929546979911359
+      mechani5_24: -2672449232732252184
+      mechani5_3: -3387286919165441746
+      mechani5_4: -5124695515334816782
+      mechani5_5: 4938528603638975865
+      mechani5_6: 6065443978320123710
+      mechani5_7: -6828942107198024233
+      mechani5_8: 4624149678872880940
+      mechani5_9: 650357942927379341
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

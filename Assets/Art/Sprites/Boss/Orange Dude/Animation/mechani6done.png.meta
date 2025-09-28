@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: d40b2db60d74c2c4fa20efd1a3e1bf70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6355208013684674698
+    second: mechani6done_0
+  - first:
+      213: -1838775479312316645
+    second: mechani6done_1
+  - first:
+      213: -4720280729959197787
+    second: mechani6done_2
+  - first:
+      213: -2878640040255275986
+    second: mechani6done_3
+  - first:
+      213: -6078613527929409319
+    second: mechani6done_4
+  - first:
+      213: -4295964900673061921
+    second: mechani6done_5
+  - first:
+      213: -4118605349983185975
+    second: mechani6done_6
+  - first:
+      213: -7202457641456790244
+    second: mechani6done_7
+  - first:
+      213: 8976537791759947446
+    second: mechani6done_8
+  - first:
+      213: -387212218097410696
+    second: mechani6done_9
+  - first:
+      213: -1006068054485081773
+    second: mechani6done_10
+  - first:
+      213: 8383625052622052219
+    second: mechani6done_11
+  - first:
+      213: 7345185518508232869
+    second: mechani6done_12
+  - first:
+      213: 7440346069115297702
+    second: mechani6done_13
+  - first:
+      213: 4381502216768739135
+    second: mechani6done_14
+  - first:
+      213: 1004359944889826311
+    second: mechani6done_15
+  - first:
+      213: -380801181747071576
+    second: mechani6done_16
+  - first:
+      213: 7088479646692855986
+    second: mechani6done_17
+  - first:
+      213: -5109995286608599685
+    second: mechani6done_18
+  - first:
+      213: -136382386653300384
+    second: mechani6done_19
+  - first:
+      213: -7675049357477001422
+    second: mechani6done_20
+  - first:
+      213: -2028221686871827657
+    second: mechani6done_21
+  - first:
+      213: 635979547017795685
+    second: mechani6done_22
+  - first:
+      213: -14919297375978891
+    second: mechani6done_23
+  - first:
+      213: -4729502083578783743
+    second: mechani6done_24
+  - first:
+      213: 666628479116920389
+    second: mechani6done_25
+  - first:
+      213: 6748362466596899900
+    second: mechani6done_26
+  - first:
+      213: -2044748174445612522
+    second: mechani6done_27
+  - first:
+      213: 5128489530898954702
+    second: mechani6done_28
+  - first:
+      213: 987017123234533851
+    second: mechani6done_29
+  - first:
+      213: 1221185870737043351
+    second: mechani6done_30
+  - first:
+      213: -3925820196155398248
+    second: mechani6done_31
+  - first:
+      213: 5196670431166073769
+    second: mechani6done_32
+  - first:
+      213: -6980848587470397239
+    second: mechani6done_33
+  - first:
+      213: 8085895964576069742
+    second: mechani6done_34
+  - first:
+      213: 4326937018854480533
+    second: mechani6done_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mechani6done_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a801461640c323850800000000000000
+      internalID: 6355208013684674698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1704ed917b5b76e0800000000000000
+      internalID: -1838775479312316645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a319aa6fa13e7eb0800000000000000
+      internalID: -4720280729959197787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c3e5492240d08d0800000000000000
+      internalID: -2878640040255275986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 12
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d032e4c33d64aba0800000000000000
+      internalID: -6078613527929409319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_5
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 12
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbf5df0faaa164c0800000000000000
+      internalID: -4295964900673061921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 12
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c39a386146c7d6c0800000000000000
+      internalID: -4118605349983185975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 12
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c159b237feabb0c90800000000000000
+      internalID: -7202457641456790244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_8
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b698b6df81139c70800000000000000
+      internalID: 8976537791759947446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_9
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ddc970a8850aaf0800000000000000
+      internalID: -387212218097410696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_10
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3516c805f6ab902f0800000000000000
+      internalID: -1006068054485081773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_11
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b5a97219e985470800000000000000
+      internalID: 8383625052622052219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_12
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0d60800575fe560800000000000000
+      internalID: 7345185518508232869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_13
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 12
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af5797445b614760800000000000000
+      internalID: 7440346069115297702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_14
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 12
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37561d4d093ecc30800000000000000
+      internalID: 4381502216768739135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_15
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 12
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cf9cd6c0430fd00800000000000000
+      internalID: 1004359944889826311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_16
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 12
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5baefb75f17baf0800000000000000
+      internalID: -380801181747071576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_17
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 12
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0d6baaea65f5260800000000000000
+      internalID: 7088479646692855986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_18
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 12
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7526c95c56a519b0800000000000000
+      internalID: -5109995286608599685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_19
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 12
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069f8e121f87b1ef0800000000000000
+      internalID: -136382386653300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_20
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 12
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2374ef5064fbc7590800000000000000
+      internalID: -7675049357477001422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_21
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 12
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bd24c2f1f4ad3e0800000000000000
+      internalID: -2028221686871827657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_22
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 12
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568d868470473d800800000000000000
+      internalID: 635979547017795685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_23
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 12
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a3b936afefacff0800000000000000
+      internalID: -14919297375978891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_24
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 12
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10811d7b9ee6d5eb0800000000000000
+      internalID: -4729502083578783743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_25
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 12
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5464ceed117504900800000000000000
+      internalID: 666628479116920389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_26
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 12
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c4615b8eff6ad50800000000000000
+      internalID: 6748362466596899900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_27
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 12
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6127a0f6e589f93e0800000000000000
+      internalID: -2044748174445612522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_28
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 12
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9ba837e0e0c2740800000000000000
+      internalID: 5128489530898954702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_29
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 12
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd15f9918d692bd00800000000000000
+      internalID: 987017123234533851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_30
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 12
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fe10e441682f010800000000000000
+      internalID: 1221185870737043351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_31
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8976a1cd45fa489c0800000000000000
+      internalID: -3925820196155398248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_32
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab0e6859384e1840800000000000000
+      internalID: 5196670431166073769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_33
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c02a01223b0f1f90800000000000000
+      internalID: -6980848587470397239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_34
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e683253f98fd63070800000000000000
+      internalID: 8085895964576069742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mechani6done_35
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 12
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a1f462b4e5c0c30800000000000000
+      internalID: 4326937018854480533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mechani6done_0: 6355208013684674698
+      mechani6done_1: -1838775479312316645
+      mechani6done_10: -1006068054485081773
+      mechani6done_11: 8383625052622052219
+      mechani6done_12: 7345185518508232869
+      mechani6done_13: 7440346069115297702
+      mechani6done_14: 4381502216768739135
+      mechani6done_15: 1004359944889826311
+      mechani6done_16: -380801181747071576
+      mechani6done_17: 7088479646692855986
+      mechani6done_18: -5109995286608599685
+      mechani6done_19: -136382386653300384
+      mechani6done_2: -4720280729959197787
+      mechani6done_20: -7675049357477001422
+      mechani6done_21: -2028221686871827657
+      mechani6done_22: 635979547017795685
+      mechani6done_23: -14919297375978891
+      mechani6done_24: -4729502083578783743
+      mechani6done_25: 666628479116920389
+      mechani6done_26: 6748362466596899900
+      mechani6done_27: -2044748174445612522
+      mechani6done_28: 5128489530898954702
+      mechani6done_29: 987017123234533851
+      mechani6done_3: -2878640040255275986
+      mechani6done_30: 1221185870737043351
+      mechani6done_31: -3925820196155398248
+      mechani6done_32: 5196670431166073769
+      mechani6done_33: -6980848587470397239
+      mechani6done_34: 8085895964576069742
+      mechani6done_35: 4326937018854480533
+      mechani6done_4: -6078613527929409319
+      mechani6done_5: -4295964900673061921
+      mechani6done_6: -4118605349983185975
+      mechani6done_7: -7202457641456790244
+      mechani6done_8: 8976537791759947446
+      mechani6done_9: -387212218097410696
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
