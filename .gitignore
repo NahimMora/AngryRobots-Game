@@ -1,4 +1,6 @@
-# Unity generated
+# =========================
+# Unity Generated Files
+# =========================
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -26,7 +28,20 @@
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
+# =========================
+# Asset meta data should be tracked
+# =========================
+!/[Aa]ssets/**/*.meta
+
+# =========================
+# Ignore specific Assets
+# =========================
+# Ignorar carpeta Pallete
+Assets/Art/Pallete/
+
+# =========================
 # Builds
+# =========================
 *.apk
 *.aab
 *.exe
@@ -34,11 +49,8 @@ sysinfo.txt
 *.xcodeproj/
 *.xcworkspace/
 
-# Asset meta data should be tracked
-!/[Aa]ssets/**/*.meta
-
-# Visual Studio Code
+# =========================
+# IDE / Editor folders
+# =========================
 .vscode/
-
-# Current
-Assets/Art/Pallete/
+.idea/
