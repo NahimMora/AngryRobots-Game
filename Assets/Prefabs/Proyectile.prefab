@@ -168,6 +168,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70a412b2eb4f6e74ead9b9fe4c071718, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ProyectileScript
+  explosionPrefab: {fileID: 7532636982803164853, guid: 5764907e25da0ef40ad0f99e1041322d, type: 3}
   force: 500
   maxDistance: 2
   resetTime: 5

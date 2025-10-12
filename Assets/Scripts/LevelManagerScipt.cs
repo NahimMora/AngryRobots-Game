@@ -4,14 +4,21 @@ public class LevelManagerScript : MonoBehaviour
 {
     [SerializeField] private Transform ProyectileSpawnPoint;
     [SerializeField] private Transform[] robotSpawnPoints;
+    [SerializeField] private Transform CameraSpawnPoint;
+
     [SerializeField] private GameObject[] proyectilePrefabs;
     [SerializeField] private GameObject robotPrefab;
-
     private int currentProyectileIndex = 0;
     private GameObject currentProyectile;
 
     void Start()
     {
+        CameraMovement cam = Camera.main.GetComponent<CameraMovement>();
+        if (cam != null && CameraSpawnPoint != null)
+        {
+            cam.SetStartPosition(CameraSpawnPoint.position);
+        }
+
         SpawnProyectile();
         SpawnRobots();
     }
@@ -28,6 +35,14 @@ public class LevelManagerScript : MonoBehaviour
 
     void HandleProyectileFinished()
     {
+        CameraMovement cam = Camera.main.GetComponent<CameraMovement>();
+        if (cam != null)
+        {
+            cam.SetTarget(null);
+            cam.ResetPositionCamera();
+            Debug.Log("Posicion: " + CameraSpawnPoint.position);
+
+        }
         NextProyectile();
     }
 
@@ -37,7 +52,6 @@ public class LevelManagerScript : MonoBehaviour
         {
             currentProyectile = Instantiate(proyectilePrefabs[currentProyectileIndex], ProyectileSpawnPoint.position, Quaternion.identity);
 
-            // Avisar a la cámara que siga este pájaro
             CameraMovement cam = Camera.main.GetComponent<CameraMovement>();
             if (cam != null)
             {
@@ -45,7 +59,6 @@ public class LevelManagerScript : MonoBehaviour
             }
         }
     }
-
 
     void SpawnRobots()
     {
@@ -66,6 +79,12 @@ public class LevelManagerScript : MonoBehaviour
         else
         {
             Debug.Log("No quedan proyectiles. Fin del nivel.");
+            CameraMovement cam = Camera.main.GetComponent<CameraMovement>();
+            if (cam != null)
+            {
+                cam.ResetPositionCamera(); // ✅ Usa este método
+            }
         }
     }
+
 }
