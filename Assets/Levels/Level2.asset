@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4455e75a649420e468bbefb761b06958, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  levelName: level2
+  proyectilesForThisLevel:
+  - {fileID: 8699479283507710351, guid: 0c9d4ad584eebfc4fbe7e4b8c4a2d05f, type: 3}
+  - {fileID: 8699479283507710351, guid: 0c9d4ad584eebfc4fbe7e4b8c4a2d05f, type: 3}
+  - {fileID: 8699479283507710351, guid: 0c9d4ad584eebfc4fbe7e4b8c4a2d05f, type: 3}
+  - {fileID: 8699479283507710351, guid: 0c9d4ad584eebfc4fbe7e4b8c4a2d05f, type: 3}
+  - {fileID: 8699479283507710351, guid: 0c9d4ad584eebfc4fbe7e4b8c4a2d05f, type: 3}
+  - {fileID: 8699479283507710351, guid: 0c9d4ad584eebfc4fbe7e4b8c4a2d05f, type: 3}
+  - {fileID: 8699479283507710351, guid: 0c9d4ad584eebfc4fbe7e4b8c4a2d05f, type: 3}
+  - {fileID: 8699479283507710351, guid: 0c9d4ad584eebfc4fbe7e4b8c4a2d05f, type: 3}
+  - {fileID: 8699479283507710351, guid: 0c9d4ad584eebfc4fbe7e4b8c4a2d05f, type: 3}
+  - {fileID: 8699479283507710351, guid: 0c9d4ad584eebfc4fbe7e4b8c4a2d05f, type: 3}
+  - {fileID: 8699479283507710351, guid: 0c9d4ad584eebfc4fbe7e4b8c4a2d05f, type: 3}
+  - {fileID: 8699479283507710351, guid: 0c9d4ad584eebfc4fbe7e4b8c4a2d05f, type: 3}
+  proyectileQuantities: 
+  tankSpawnPosition: {x: 75, y: -30, z: 0}
+  cameraStartPosition: {x: 93.9, y: -25.9, z: -10}
+  robots:
+  - robotPrefab: {fileID: 7125201353312278667, guid: 845f0a3b611ceb843b811ac99d35b018, type: 3}
+    spawnPosition: {x: 99.69, y: -18.85, z: 0}
+  - robotPrefab: {fileID: 2797148975973842431, guid: c68e57c35ed0ff24b8d9e879215a01ec, type: 3}
+    spawnPosition: {x: 108.48, y: -21.84, z: 0}
+  - robotPrefab: {fileID: 4444131261262964792, guid: 5381abab39439524db1c044698e8484d, type: 3}
+    spawnPosition: {x: 91.35, y: -23.14, z: 0}
+  - robotPrefab: {fileID: 7125201353312278667, guid: 845f0a3b611ceb843b811ac99d35b018, type: 3}
+    spawnPosition: {x: 110.03, y: -29.14, z: 0}

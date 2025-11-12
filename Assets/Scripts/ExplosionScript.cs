@@ -1,60 +1,75 @@
 using UnityEngine;
+using System.Collections;
 
 public class ExplosionScript : MonoBehaviour
 {
+    [SerializeField] private float radius = 2f;
+    [SerializeField] private float maxDamage = 100f;
+    [SerializeField] private float maxForce = 8f;
+    [SerializeField] private LayerMask damageLayers;
+    [SerializeField] private AnimationClip explosionAnim;
+    [SerializeField] private float lifetime = 2f; // ⭐ NUEVO
 
-    [SerializeField] private AnimationClip explosionAnimation;
-    [SerializeField] private float explosionRadius = 2f;
-    [SerializeField] private float explosionDamage = 100f;
-
-    private Animator animator;
-    private float animationDuration;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    private void Start()
     {
-        animator = GetComponent<Animator>();
-        if (explosionAnimation != null)
-        {
-            animationDuration = explosionAnimation.length;
-        }
-        else
-        {
-            animationDuration = 1f;
-        }
-        Explode();
-        Destroy(gameObject, animationDuration);
+        StartCoroutine(ExplosionSequence());
     }
 
-    void Explode()
+    // ⭐ USAR COROUTINE PARA CONTROLAR TIMING
+    private IEnumerator ExplosionSequence()
     {
-        // Encontrar todos los objetos en el radio de explosión
-        Collider2D[] hitObjects = Physics2D.OverlapCircleAll(transform.position, explosionRadius);
+        // Explosión inmediata
+        Explode();
 
-        foreach (Collider2D obj in hitObjects)
+        // Esperar a que termine la animación
+        float duration = explosionAnim != null ? explosionAnim.length : lifetime;
+        yield return new WaitForSeconds(duration);
+
+        // Ahora sí destruir
+        Destroy(gameObject);
+    }
+
+    private void Explode()
+    {
+        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, radius, damageLayers);
+
+        foreach (var c in hits)
         {
-            // Intentar obtener el componente RobotScript
-            RobotScript robot = obj.GetComponent<RobotScript>();
+            if (c == null) continue;
+
+            float distance = Vector2.Distance(transform.position, c.transform.position);
+            float t = Mathf.Clamp01(1f - (distance / radius));
+            float damage = maxDamage * t;
+
+            var robot = c.GetComponent<RobotScript>();
             if (robot != null)
             {
-                robot.TakeDamage(explosionDamage);
+                robot.TakeDamage(damage);
             }
 
-            // Si tiene Rigidbody2D, aplicar fuerza (efecto de empuje)
-            Rigidbody2D rb = obj.GetComponent<Rigidbody2D>();
+            var block = c.GetComponent<BlockScript>();
+            if (block != null)
+            {
+                block.TakeDamage(damage);
+            }
+
+            var rb = c.attachedRigidbody;
             if (rb != null)
             {
-                Vector2 direction = (obj.transform.position - transform.position).normalized;
-                rb.AddForce(direction * 500f); // Ajusta la fuerza según necesites
+                Vector2 dir = (c.transform.position - transform.position).normalized;
+                float force = maxForce * t;
+                rb.AddForce(dir * force, ForceMode2D.Impulse);
             }
         }
 
-        Debug.Log($"💥 Explosión causó {explosionDamage} de daño en radio {explosionRadius}");
+        // Shake de cámara
+        CameraMovement cam = Camera.main?.GetComponent<CameraMovement>();
+        cam?.TriggerShake(0.3f, 0.3f);
     }
 
-    // Para visualizar el radio en el editor
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(transform.position, explosionRadius);
+        Gizmos.DrawWireSphere(transform.position, radius);
     }
 }
